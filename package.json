@@ -42,7 +42,7 @@
     "@tarojs/taro-quickapp": "2.0.3",
     "@tarojs/taro-swan": "2.0.3",
     "@tarojs/taro-tt": "2.0.3",
-    "@tarojs/taro-weapp": "2.0.3",
+    "@tarojs/taro-weapp": "^2.0.3",
     "babel-runtime": "^6.26.0",
     "cnpm": "^6.1.1",
     "nerv-devtools": "^1.5.5",
@@ -53,7 +53,7 @@
     "regenerator-runtime": "0.11.1"
   },
   "devDependencies": {
-    "@tarojs/mini-runner": "2.0.3",
+    "@tarojs/mini-runner": "^2.0.4",
     "@tarojs/webpack-runner": "2.0.3",
     "@types/react": "^16.4.8",
     "@types/webpack-env": "^1.13.6",
