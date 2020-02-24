@@ -111,7 +111,7 @@ class SignList extends Component<{}, PageState> {
           </View>
           <View className="hr"></View>
           <View className="newsList">
-                    <View className={carIndex1}>未打卡1</View>  
+                    <View className={carIndex1}>未打卡</View>  
                     <View className={carIndex2}>已打卡</View>
                     <View className={carIndex3}>已放弃</View>
                     <View className={carindex4}>全部</View>

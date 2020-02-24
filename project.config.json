@@ -1,6 +1,6 @@
 {
 	"miniprogramRoot": "dist/",
-	"projectname": "yimian",
+	"projectname": "sign",
 	"description": "一款精致的面试管理软件",
 	"appid": "wx3375420e2c184d34  ",
 	"setting": {
@@ -46,6 +46,21 @@
 					"id": -1,
 					"name": "添加面试页面",
 					"pathName": "pages/sign/add/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "面试列表",
+					"pathName": "pages/sign/list/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "面试详情页面",
+					"pathName": "pages/sign/detail/index",
+					"query": "id=3315",
 					"scene": null
 				}
 			]
